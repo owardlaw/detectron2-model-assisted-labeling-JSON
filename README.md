@@ -1,0 +1,1 @@
+# detectron2-model-assisted-labeling-JSON
